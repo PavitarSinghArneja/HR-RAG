@@ -1,0 +1,26 @@
+2025-06-21 15:58:58,497 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-21 15:58:58,497 - ERROR - ❌ Error setting up Google Drive credentials: GOOGLE_CREDENTIALS_PATH not found in environment variables
+2025-06-21 15:59:54,429 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-21 15:59:54,500 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-21 15:59:54,502 - INFO - ✅ Google Drive credentials setup successfully
+2025-06-21 15:59:55,441 - INFO - ✅ Pinecone setup successfully
+2025-06-21 15:59:56,458 - INFO - 📁 Found 8 files in Google Drive folder
+2025-06-21 15:59:56,459 - INFO - 📄 Processing: Employee Recognition Program
+2025-06-21 15:59:57,666 - INFO - ✅ Processed Employee Recognition Program -> 1 chunks
+2025-06-21 15:59:58,172 - INFO - 📄 Processing: Code of Conduct
+2025-06-21 15:59:59,427 - INFO - ✅ Processed Code of Conduct -> 1 chunks
+2025-06-21 15:59:59,932 - INFO - 📄 Processing: Compensation and Payroll
+2025-06-21 16:00:01,650 - INFO - ✅ Processed Compensation and Payroll -> 1 chunks
+2025-06-21 16:00:02,155 - INFO - 📄 Processing: Performance Review Process
+2025-06-21 16:00:03,421 - INFO - ✅ Processed Performance Review Process -> 1 chunks
+2025-06-21 16:00:03,923 - INFO - 📄 Processing: Professional Development Policy
+2025-06-21 16:00:05,228 - INFO - ✅ Processed Professional Development Policy -> 1 chunks
+2025-06-21 16:00:05,732 - INFO - 📄 Processing: Remote Work Policy
+2025-06-21 16:00:07,021 - INFO - ✅ Processed Remote Work Policy -> 1 chunks
+2025-06-21 16:00:07,525 - INFO - 📄 Processing: Benefits Overview
+2025-06-21 16:00:08,732 - INFO - ✅ Processed Benefits Overview -> 1 chunks
+2025-06-21 16:00:09,236 - INFO - 📄 Processing: Employee Handbook - Time Off Policy
+2025-06-21 16:00:10,573 - INFO - ✅ Processed Employee Handbook - Time Off Policy -> 2 chunks
+2025-06-21 16:00:15,404 - INFO - ✅ Successfully ingested 9 document chunks
+2025-06-21 16:00:15,404 - INFO - 🎉 Ingestion completed successfully!
+2025-06-21 16:00:15,404 - INFO - 📊 Summary: 8/8 files processed, 9 chunks ingested

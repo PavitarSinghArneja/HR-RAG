@@ -1,0 +1,98 @@
+2025-06-21 16:05:09,775 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-21 16:05:09,775 - ERROR - ❌ Error setting up Google Drive credentials: GOOGLE_CREDENTIALS_PATH not found in environment variables
+2025-06-21 16:05:35,022 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-21 16:05:35,095 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-21 16:05:35,096 - INFO - ✅ Google Drive credentials setup successfully
+2025-06-21 16:05:36,132 - INFO - ✅ Pinecone setup successfully
+2025-06-21 16:05:36,995 - INFO - 📁 Found 8 files in Google Drive folder
+2025-06-21 16:05:36,996 - INFO - 📄 Processing: Employee Recognition Program
+2025-06-21 16:05:38,175 - INFO - ✅ Processed Employee Recognition Program -> 1 chunks
+2025-06-21 16:05:38,677 - INFO - 📄 Processing: Code of Conduct
+2025-06-21 16:05:39,810 - INFO - ✅ Processed Code of Conduct -> 1 chunks
+2025-06-21 16:05:40,313 - INFO - 📄 Processing: Compensation and Payroll
+2025-06-21 16:05:41,450 - INFO - ✅ Processed Compensation and Payroll -> 1 chunks
+2025-06-21 16:05:41,954 - INFO - 📄 Processing: Performance Review Process
+2025-06-21 16:05:43,189 - INFO - ✅ Processed Performance Review Process -> 1 chunks
+2025-06-21 16:05:43,694 - INFO - 📄 Processing: Professional Development Policy
+2025-06-21 16:05:44,750 - INFO - ✅ Processed Professional Development Policy -> 1 chunks
+2025-06-21 16:05:45,254 - INFO - 📄 Processing: Remote Work Policy
+2025-06-21 16:05:46,454 - INFO - ✅ Processed Remote Work Policy -> 1 chunks
+2025-06-21 16:05:46,960 - INFO - 📄 Processing: Benefits Overview
+2025-06-21 16:05:48,105 - INFO - ✅ Processed Benefits Overview -> 1 chunks
+2025-06-21 16:05:48,611 - INFO - 📄 Processing: Employee Handbook - Time Off Policy
+2025-06-21 16:05:49,796 - INFO - ✅ Processed Employee Handbook - Time Off Policy -> 2 chunks
+2025-06-21 16:05:54,967 - INFO - ✅ Successfully ingested 9 document chunks
+2025-06-21 16:05:54,968 - INFO - 🎉 Ingestion completed successfully!
+2025-06-21 16:05:54,968 - INFO - 📊 Summary: 8/8 files processed, 9 chunks ingested
+2025-06-26 11:55:26,647 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-26 11:55:26,715 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-26 11:55:26,717 - INFO - ✅ Google Drive credentials setup successfully
+2025-06-26 11:55:27,825 - INFO - ✅ Pinecone setup successfully
+2025-06-26 11:55:28,652 - INFO - 📁 Found 8 files in Google Drive folder
+2025-06-26 11:55:28,653 - INFO - 📄 Processing: Employee Recognition Program
+2025-06-26 11:55:29,922 - INFO - ✅ Processed Employee Recognition Program -> 1 chunks
+2025-06-26 11:55:30,428 - INFO - 📄 Processing: Code of Conduct
+2025-06-26 11:55:31,968 - INFO - ✅ Processed Code of Conduct -> 1 chunks
+2025-06-26 11:55:32,474 - INFO - 📄 Processing: Compensation and Payroll
+2025-06-26 11:55:33,810 - INFO - ✅ Processed Compensation and Payroll -> 1 chunks
+2025-06-26 11:55:34,316 - INFO - 📄 Processing: Performance Review Process
+2025-06-26 11:55:35,701 - INFO - ✅ Processed Performance Review Process -> 1 chunks
+2025-06-26 11:55:36,206 - INFO - 📄 Processing: Professional Development Policy
+2025-06-26 11:55:38,215 - INFO - ✅ Processed Professional Development Policy -> 1 chunks
+2025-06-26 11:55:38,718 - INFO - 📄 Processing: Remote Work Policy
+2025-06-26 11:55:40,262 - INFO - ✅ Processed Remote Work Policy -> 1 chunks
+2025-06-26 11:55:40,767 - INFO - 📄 Processing: Benefits Overview
+2025-06-26 11:55:42,104 - INFO - ✅ Processed Benefits Overview -> 1 chunks
+2025-06-26 11:55:42,607 - INFO - 📄 Processing: Employee Handbook - Time Off Policy
+2025-06-26 11:55:44,189 - INFO - ✅ Processed Employee Handbook - Time Off Policy -> 2 chunks
+2025-06-26 11:55:50,206 - INFO - ✅ Successfully ingested 9 document chunks
+2025-06-26 11:55:50,207 - INFO - 🎉 Ingestion completed successfully!
+2025-06-26 11:55:50,208 - INFO - 📊 Summary: 8/8 files processed, 9 chunks ingested
+2025-06-26 12:04:14,222 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-26 12:04:14,291 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-26 12:04:14,292 - INFO - ✅ Google Drive credentials setup successfully
+2025-06-26 12:04:15,590 - INFO - ✅ Pinecone setup successfully
+2025-06-26 12:04:16,531 - INFO - 📁 Found 8 files in Google Drive folder
+2025-06-26 12:04:16,532 - INFO - 📄 Processing: Employee Recognition Program
+2025-06-26 12:04:18,851 - INFO - ✅ Processed Employee Recognition Program -> 1 chunks
+2025-06-26 12:04:19,354 - INFO - 📄 Processing: Code of Conduct
+2025-06-26 12:04:20,669 - INFO - ✅ Processed Code of Conduct -> 1 chunks
+2025-06-26 12:04:21,173 - INFO - 📄 Processing: Compensation and Payroll
+2025-06-26 12:04:22,476 - INFO - ✅ Processed Compensation and Payroll -> 1 chunks
+2025-06-26 12:04:22,980 - INFO - 📄 Processing: Performance Review Process
+2025-06-26 12:04:24,262 - INFO - ✅ Processed Performance Review Process -> 1 chunks
+2025-06-26 12:04:24,766 - INFO - 📄 Processing: Professional Development Policy
+2025-06-26 12:04:26,180 - INFO - ✅ Processed Professional Development Policy -> 1 chunks
+2025-06-26 12:04:26,683 - INFO - 📄 Processing: Remote Work Policy
+2025-06-26 12:04:27,938 - INFO - ✅ Processed Remote Work Policy -> 1 chunks
+2025-06-26 12:04:28,443 - INFO - 📄 Processing: Benefits Overview
+2025-06-26 12:04:29,931 - INFO - ✅ Processed Benefits Overview -> 1 chunks
+2025-06-26 12:04:30,434 - INFO - 📄 Processing: Employee Handbook - Time Off Policy
+2025-06-26 12:04:31,624 - INFO - ✅ Processed Employee Handbook - Time Off Policy -> 2 chunks
+2025-06-26 12:04:36,374 - INFO - ✅ Successfully ingested 9 document chunks
+2025-06-26 12:04:36,374 - INFO - 🎉 Ingestion completed successfully!
+2025-06-26 12:04:36,374 - INFO - 📊 Summary: 8/8 files processed, 9 chunks ingested
+2025-06-26 12:06:26,951 - INFO - 🚀 Starting document ingestion pipeline...
+2025-06-26 12:06:27,019 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-26 12:06:27,020 - INFO - ✅ Google Drive credentials setup successfully
+2025-06-26 12:06:28,163 - INFO - ✅ Pinecone setup successfully
+2025-06-26 12:06:29,025 - INFO - 📁 Found 8 files in Google Drive folder
+2025-06-26 12:06:29,026 - INFO - 📄 Processing: Employee Recognition Program
+2025-06-26 12:06:30,063 - INFO - ✅ Processed Employee Recognition Program -> 1 chunks
+2025-06-26 12:06:30,568 - INFO - 📄 Processing: Code of Conduct
+2025-06-26 12:06:31,737 - INFO - ✅ Processed Code of Conduct -> 1 chunks
+2025-06-26 12:06:32,243 - INFO - 📄 Processing: Compensation and Payroll
+2025-06-26 12:06:33,376 - INFO - ✅ Processed Compensation and Payroll -> 1 chunks
+2025-06-26 12:06:33,882 - INFO - 📄 Processing: Performance Review Process
+2025-06-26 12:06:34,912 - INFO - ✅ Processed Performance Review Process -> 1 chunks
+2025-06-26 12:06:35,416 - INFO - 📄 Processing: Professional Development Policy
+2025-06-26 12:06:36,961 - INFO - ✅ Processed Professional Development Policy -> 1 chunks
+2025-06-26 12:06:37,467 - INFO - 📄 Processing: Remote Work Policy
+2025-06-26 12:06:38,478 - INFO - ✅ Processed Remote Work Policy -> 1 chunks
+2025-06-26 12:06:38,980 - INFO - 📄 Processing: Benefits Overview
+2025-06-26 12:06:40,442 - INFO - ✅ Processed Benefits Overview -> 1 chunks
+2025-06-26 12:06:40,946 - INFO - 📄 Processing: Employee Handbook - Time Off Policy
+2025-06-26 12:06:42,286 - INFO - ✅ Processed Employee Handbook - Time Off Policy -> 2 chunks
+2025-06-26 12:06:46,969 - INFO - ✅ Successfully ingested 9 document chunks
+2025-06-26 12:06:46,970 - INFO - 🎉 Ingestion completed successfully!
+2025-06-26 12:06:46,970 - INFO - 📊 Summary: 8/8 files processed, 9 chunks ingested
